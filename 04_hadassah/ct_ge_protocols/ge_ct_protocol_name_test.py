@@ -7,8 +7,7 @@ class TestProtocolNames(unittest.TestCase):
     
     def testAdultHead(self):
         str1 = 'ADULT HEAD 1.1 Head (adult) 1.25'
-
-        self.assertTrue(bool(re.match(str1, PROTOCOL_NAME_ADULT_HEAD)))
+        self.assertTrue(bool(re.match(PROTOCOL_NAME_ADULT_HEAD, str1)))
 
 
 if __name__ == '__main':

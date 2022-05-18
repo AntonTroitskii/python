@@ -2,8 +2,7 @@ import re
 
 PROTOCOL_NAME = r"^(?!Series)[^,^\n]+$"
 
-PROTOCOL_NAME_ADULT_HEAD = r"^(?!ADULT HEAD) \d{1,2}.\d{1,2}"
-
+PROTOCOL_NAME_ADULT_HEAD = r"^(?!ADULT HEAD)\d{1,2}.\d{1,2}"
 
 # ADULT HEAD 1.1 Head (adult) 1.25
 # ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C

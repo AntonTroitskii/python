@@ -1,0 +1,278 @@
+Exam name, Series, Recon, Series Description, Filter, MAR, Slice thikness, DFOV, mA, kV, CTDI, DLP
+ADULT HEAD 1.1 Head (adult) 1.25, Series 2, 1, , Standard, , 1.25, 50.0  D , 340, 120, 56.1357, 8211.25
+ADULT HEAD 1.1 Head (adult) 1.25, Series 2, 1, , Standard, , 1.25, 50.0  D , 340, 120, 56.1357, 8211.25
+ADULT HEAD 1.1 Head (adult) 1.25, Series 2, 1, , Soft, , 1.25, 50.0  D , 340, 120, 56.1357, 8211.25
+ADULT HEAD 1.1 Head (adult) 1.25, Series 2, 1, , Soft, , 1.25, 50.0  D , 340, 120, 56.1357, 8211.25
+
+ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C, Series 2, 1, , Standard, , 1.25, 50.0, 340, 120, 55.2667, 1175.8
+ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C, Series 2, 1, , Standard, , 1.25, 50.0  D , 340, 120, 55.2667, 1175.8
+ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C, Series 2, 1, , Soft, , 1.25, 50.0  D , 340, 120, 55.2667, 1175.8
+ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C, Series 2, 1, , Soft, , 1.25, 50.0  D , 340, 120, 55.2667, 1175.8
+ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C, Series 9, 1, , Soft, , 1.25, 50.0  D , 340, 120, 55.2667, 1175.8
+
+ADULT HEAD 1.4 Head SRS (adult) 0.625, Series 2, 1, , Standard, , 0.625, 50.0, 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.4 Head SRS (adult) 0.625, Series 2, 1, , Standard, , 0.625, 50.0  D , 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.4 Head SRS (adult) 0.625, Series 2, 1, , Soft, , 0.625, 50.0  D , 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.4 Head SRS (adult) 0.625, Series 2, 1, , Soft, , 0.625, 50.0  D , 365, 120, 59.3304, 1255.54
+
+ADULT HEAD 1.5 Head SRS Contrast (adult) 0.625 N+C, Series 2, 1, , Standard, , 0.625, 50.0, 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.5 Head SRS Contrast (adult) 0.625 N+C, Series 2, 1, , Standard, , 0.625, 50.0  D , 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.5 Head SRS Contrast (adult) 0.625 N+C, Series 2, 1, , Soft, , 0.625, 50.0  D , 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.5 Head SRS Contrast (adult) 0.625 N+C, Series 2, 1, , Soft, , 0.625, 50.0  D , 365, 120, 59.3304, 1255.54
+ADULT HEAD 1.5 Head SRS Contrast (adult) 0.625 N+C, Series 9, 1, , Soft, , 0.625, 30.0  D , 365, 120, 59.3304, 1255.54
+
+ADULT ORBIT 2.16 Sinus Supine  Helical, Series 2, 1, , Bone, , 2.5, 15.0, 150, 120, 43.7677, 570.995
+ADULT ORBIT 2.16 Sinus Supine  Helical, Series 2, 1, , BonePlus, , 2.5, 15.0  D , 150, 120, 43.7677, 570.995
+ADULT ORBIT 2.16 Sinus Supine  Helical, Series 2, 1, , Standard, , 2.5, 15.0  D , 150, 120, 43.7677, 570.995
+
+ADULT CSPINE 3.1 HeadNeck (adult) 1.25, Series 2, 1, , Standard, , 1.25, 50.0, 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.1 HeadNeck (adult) 1.25, Series 2, 1, , Standard, , 1.25, 50.0  D , 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.1 HeadNeck (adult) 1.25, Series 2, 1, , Standard, , 1.25, 80.0, 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.1 HeadNeck (adult) 1.25, Series 2, 1, , Soft, , 1.25, 50.0  D , 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.1 HeadNeck (adult) 1.25, Series 2, 1, , Soft, , 1.25, 50.0  D , 400, 120, 39.0118, 510.777
+
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 2, 1, , Standard, , 1.25, 50.0, 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 2, 1, , Standard, , 1.25, 50.0  D , 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 2, 1, , Standard, , 1.25, 80.0  D , 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 2, 1, , Soft, , 1.25, 50.0  D , 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 2, 1, , Soft, , 1.25, 50.0  D , 400, 120, 39.0118, 510.777
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 9, 1, , Soft, , 1.25, 40.0, SmartmA, 120, 48.3969, 693.207
+ADULT CSPINE 3.2 HeadNeck Contrast (adult) 1.25 N+C(A+V), Series 9, 2, , Soft, , 1.25, 40.0, SmartmA, 120, 48.3969, 693.207
+
+ADULT CSPINE 3.4 HeadNeck SRS (adult) 0.625, Series 2, 1, , Standard, , 0.625, 50.0, 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.4 HeadNeck SRS (adult) 0.625, Series 2, 1, , Standard, , 0.625, 50.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.4 HeadNeck SRS (adult) 0.625, Series 2, 1, , Soft, , 0.625, 80.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.4 HeadNeck SRS (adult) 0.625, Series 2, 1, , Soft, , 0.625, 50.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.4 HeadNeck SRS (adult) 0.625, Series 2, 1, , Soft, , 0.625, 50.0  D , 400, 120, 39.0118, 508.361
+
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 2, 1, , Standard, , 0.625, 50.0, 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 2, 1, , Standard, , 0.625, 50.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 2, 1, , Standard, , 0.625, 80.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 2, 1, , Soft, , 0.625, 50.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 2, 1, , Soft, , 0.625, 50.0  D , 400, 120, 39.0118, 508.361
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 9, 1, , Soft, , 1.25, 40.0  D , SmartmA, 120, 68.2706, 849.759
+ADULT CSPINE 3.5 HeadNeck SRS Contrast (adult) 0.625 N+C(A+V), Series 9, 2, , Soft, , 1.25, 40.0  D , SmartmA, 120, 68.2706, 849.759
+
+ADULT SHOULDER 4.13 Breast (adult) 1.25 GE SEMEN, Series 2, 1, , Soft, , 1.25, 50.0, 350, 120, 16.1323, 525.668
+ADULT SHOULDER 4.13 Breast (adult) 1.25 GE SEMEN, Series 2, 1, , Standard, , 1.25, 80.0, 350, 120, 16.1323, 525.668
+
+ADULT SHOULDER 4.14 Breast_DIBH (adult) N+DIBH GE SEMEN, Series 2, 1, , Soft, , 1.25, 38.0, 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.14 Breast_DIBH (adult) N+DIBH GE SEMEN, Series 2, 1, , Standard, , 1.25, 80.0, 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.14 Breast_DIBH (adult) N+DIBH GE SEMEN, Series 4, 1, , Soft, , 1.25, 38.0  D , 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.14 Breast_DIBH (adult) N+DIBH GE SEMEN, Series 4, 1, , Standard, , 1.25, 80.0, 450, 120, 20.7415, 675.859
+
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 2, 1, , Soft, , 1.25, 50.0, 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 2, 1, , Standard, , 1.25, 80.0, 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 2, 1, , Standard, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 5, 1, , Soft, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 5, 1, , Standard, , 1.25, 80.0, 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 5, 1, , Standard, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT SHOULDER 4.15 Breast_DIBH_4DCT (adult) GE SEMEN, Series 8, 1, , Standard, , 2.5, 50.0  D , 120, 120, 50.3375, 1510.12
+
+ADULT CHEST 5.1 Breast (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 350, 120, 20.4812, 642.056
+ADULT CHEST 5.1 Breast (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 350, 120, 20.4812, 642.056
+ADULT CHEST 5.1 Breast (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 350, 120, 20.4812, 642.056
+ADULT CHEST 5.1 Breast (adult) 1.25mm, Series 2, 1, , Soft, , 1.25, 50.0  D , 350, 120, 20.4812, 642.056
+ADULT CHEST 5.1 Breast (adult) 1.25mm, Series 2, 1, , Soft, , 1.25, 50.0  D , 350, 120, 20.4812, 642.056
+
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 450, 120, 26.3329, 825.501
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 450, 120, 26.3329, 825.501
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 450, 120, 26.3329, 825.501
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 2, 1, , Soft, , 1.25, 50.0  D , 450, 120, 26.3329, 825.501
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 2, 1, , Soft, , 1.25, 50.0  D , 450, 120, 26.3329, 825.501
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , 450, 120, 26.3329, 826.73
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , 450, 120, 26.3329, 826.73
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 9, 1, , Standard, , 1.25, 80.0  D , 450, 120, 26.3329, 826.73
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 9, 1, , Soft, , 1.25, 50.0  D , 450, 120, 26.3329, 826.73
+ADULT CHEST 5.2 Breast_DIBH (adult) N+DBIH 1.25mm, Series 9, 1, , Soft, , 1.25, 50.0  D , 450, 120, 26.3329, 826.73
+
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 2, 1, , Soft, , 1.25, 50.0, 450, 120, 20.7415, 675.859
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 2, 1, , Standard, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 2, 1, , Standard, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 5, 1, , Soft, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 5, 1, , Standard, , 1.25, 80.0, 450, 120, 20.7415, 675.859
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 5, 1, , Standard, , 1.25, 50.0  D , 450, 120, 20.7415, 675.859
+ADULT CHEST 5.3 Breast_DIBH_4DCT (adult) 1.25 ?, Series 8, 1, , Standard, , 2.5, 50.0  D , 120, 120, 50.3375, 1510.12
+
+ADULT CHEST 5.5 Thorax (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 460, 120, 18.3533, 577.077
+ADULT CHEST 5.5 Thorax (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.5 Thorax (adult) 1.25mm, Series 2, 1, , Lung, , 1.25, 50.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.5 Thorax (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 460, 120, 18.3533, 577.077
+
+ADULT CHEST 5.6 Thorax_4D (adult) N+4D 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 400, 120, 12.5706, 286.21
+ADULT CHEST 5.6 Thorax_4D (adult) N+4D 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 400, 120, 12.5706, 286.21
+ADULT CHEST 5.6 Thorax_4D (adult) N+4D 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 286.21
+ADULT CHEST 5.6 Thorax_4D (adult) N+4D 1.25mm, Series 2, 1, , Lung, , 1.25, 50.0  D , 400, 120, 12.5706, 286.21
+ADULT CHEST 5.6 Thorax_4D (adult) N+4D 1.25mm, Series 9, 1, , Standard, , 2.5, 50.0  D , 120, 120, 50.3375, 1006.75
+
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 2, 1, , Lung, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 9, 1, , Standard, , 1.25, 80.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 9, 1, , Lung, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 16, 1, , Standard, , 1.25, 50.0  D , SmartmA, 120, 7.05945, 232.311
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm, Series 16, 2, , Standard, , 1.25, 50.0  D , SmartmA, 120, 7.05945, 232.311
+
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 400, 120, 12.5706, 411.917
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 400, 120, 12.5706, 411.917
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 2, 1, , Lung, , 1.25, 50.0  D , 400, 120, 12.5706, 411.917
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 411.917
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 9, 1, , Standard, , 1.25, 80.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 9, 1, , Lung, , 1.25, 50.0  D , 400, 120, 12.5706, 410.055
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 16, 1, , Standard, , 1.25, 50.0  D , SmartmA, 120, 7.05945, 232.311
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 16, 2, , Standard, , 1.25, 50.0  D , SmartmA, 120, 7.05945, 232.311
+ADULT CHEST 5.8 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V)+4D 1.25mm, Series 18, 1, , Standard, , 2.5, 36.0, 120, 120, 50.3375, 1006.75
+
+ADULT CHEST 5.10 Thorax_SRS (adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 500, 120, 16.6243, 521.809
+ADULT CHEST 5.10 Thorax_SRS (adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 80.0  D , 500, 120, 16.6243, 521.809
+ADULT CHEST 5.10 Thorax_SRS (adult) 0.625mm, Series 2, 1, , Lung, , 0.625, 50.0  D , 500, 120, 16.6243, 521.809
+
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 2, 1, , Standard, , 1.25, 50.0, 460, 120, 18.3533, 577.077
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 2, 1, , Standard, , 1.25, 80.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 2, 1, , Lung, , 1.25, 50.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 2, 1, , Standard, , 1.25, 50.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 9, 1, , Standard, , 1.25, 50.0, SmartmA, 120, 18.1658, 568.136
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 9, 1, , Standard, , 1.25, 80.0, SmartmA, 120, 18.1658, 568.136
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 9, 1, , Lung, , 1.25, 50.0  D , SmartmA, 120, 18.1658, 568.136
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 15, 1, , Standard, , 1.25, 50.0, SmartmA, 120, 14.6573, 439.72
+ADULT CHEST 5.12 Thorax (adult) 1.25mm Slow Helical+Axial, Series 15, 1, , Lung, , 1.25, 50.0  D , SmartmA, 120, 14.6573, 439.72
+
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 2, 1, , Standard, , 1.25, 50.0, 460, 120, 18.3533, 577.077
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 2, 1, , Standard, , 1.25, 80.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 2, 1, , Lung, , 1.25, 50.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 2, 1, , Standard, , 1.25, 50.0  D , 460, 120, 18.3533, 577.077
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 9, 1, , Standard, , 1.25, 50.0, SmartmA, 120, 18.1658, 568.136
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 9, 1, , Lung, , 1.25, 50.0  D , SmartmA, 120, 18.1658, 568.136
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 15, 1, , Standard, , 1.25, 50.0, SmartmA, 120, 14.6573, 439.72
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 15, 1, , Lung, , 1.25, 50.0  D , SmartmA, 120, 14.6573, 439.72
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 21, 1, , Standard, , 1.25, 36.0, SmartmA, 120, 19.7538, 647.034
+ADULT CHEST 5.13 Thorax (adult) 1.25mm Slow Helical+Axial+C(A+V), Series 21, 2, , Standard, , 1.25, 36.0, SmartmA, 120, 19.7538, 647.034
+
+ADULT ABDOMEN 6.1 Abdomen (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.1 Abdomen (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.1 Abdomen (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 22.5852, 958.302
+
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 2, 1, , Standard, , 1.25, 50.0, 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 2, 1, , Standard, , 1.25, 80.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 5, 1, , Standard, , 1.25, 50.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 5, 1, , Standard, , 1.25, 80.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 5, 1, , Standard, , 1.25, 50.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 8, 1, , Standard, , 1.25, 50.0  D , SmartmA, 120, 14.142, 604.944
+ADULT ABDOMEN 6.2 Abdomen Contrast (adult) 1.25mm N(Free)+N(DIBH)+C(A+V+D), Series 8, 2, , Standard, , 1.25, 50.0  D , SmartmA, 120, 14.142, 604.944
+
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 2, 1, , Standard, , 1.25, 50.0, 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 2, 1, , Standard, , 1.25, 80.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 5, 1, , Standard, , 1.25, 50.0  D , 620, 120, 28.5772, 1212.54
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 5, 1, , Standard, , 1.25, 80.0  D , 620, 120, 28.5772, 1212.54
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 5, 1, , Standard, , 1.25, 50.0  D , 620, 120, 28.5772, 1212.54
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 8, 1, , Standard, , 2.5, 50.0  D , 250, 120, 104.87, 2307.13
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 9, 1, , Standard, , 1.25, 50.0  D , SmartmA, 120, 14.142, 604.944
+ADULT ABDOMEN 6.3 Abdomen Contrast 4D (adult) 1.25mm N(F)+N(DIBH)+c(A+V+D), Series 9, 2, , Standard, , 1.25, 50.0  D , SmartmA, 120, 14.142, 604.944
+
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 2, 1, , Standard, , 1.25, 50.0, 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 2, 1, , Standard, , 1.25, 80.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 22.5852, 958.302
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 8, 1, , Standard, , 1.25, 50.0  D , 540, 120, 14.142, 604.944
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 8, 2, , Standard, , 1.25, 50.0  D , 540, 120, 14.142, 604.944
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 8, 1, , Soft, , 1.25, 50.0  D , 540, 120, 14.142, 604.944
+ADULT ABDOMEN 6.4 Abdomen Contrast Diagnostic 1.25mm (adult) N+C(A+V+D), Series 8, 2, , Soft, , 1.25, 50.0  D , 540, 120, 14.142, 604.944
+
+ADULT ABDOMEN 6.5 Abdomen Extretory (adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 620, 120, 28.5772, 1212.54
+
+ADULT ABDOMEN 6.7 Abdomen SRS (adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0, 650, 120, 25.934, 1071.33
+ADULT ABDOMEN 6.7 Abdomen SRS (adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 80.0  D , 650, 120, 25.934, 1071.33
+ADULT ABDOMEN 6.7 Abdomen SRS (adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 650, 120, 25.934, 1071.33
+
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 2, 1, , Standard, , 0.625, 50.0, 650, 120, 25.934, 1071.33
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 2, 1, , Standard, , 0.625, 80.0  D , 650, 120, 25.934, 1071.33
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 2, 1, , Standard, , 0.625, 50.0  D , 650, 120, 25.934, 1071.33
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 8, 1, , Standard, , 0.625, 50.0  D , 760, 120, 23.825, 747.568
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 8, 1, , Standard, , 0.625, 80.0  D , 760, 120, 23.825, 747.568
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 8, 1, , Standard, , 0.625, 50.0  D , 760, 120, 23.825, 747.568
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 14, 1, , Standard, , 0.625, 50.0  D , SmartmA, 120, 12.2783, 386.199
+ADULT ABDOMEN 6.8 Abdomen SRS Contrast (adult) 0.625mm N(F)+N(DIBH)+C(A+V), Series 14, 2, , Standard, , 0.625, 50.0  D , SmartmA, 120, 12.2783, 386.199
+
+ADULT ABDOMEN 6.10 Abdomen (adult) 1.25mm MAR, Series 2, 1, , Standard, , 1.25, 50.0, 490, 120, 28.6736, 1185.62
+ADULT ABDOMEN 6.10 Abdomen (adult) 1.25mm MAR, Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 28.6736, 1185.62
+ADULT ABDOMEN 6.10 Abdomen (adult) 1.25mm MAR, Series 2, 1, , Standard, , 1.25, 80.0  D , 490, 120, 28.6736, 1185.62
+ADULT ABDOMEN 6.10 Abdomen (adult) 1.25mm MAR, Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 28.6736, 1185.62
+ADULT ABDOMEN 6.10 Abdomen (adult) 1.25mm MAR, Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 28.6736, 1185.62
+
+ADULT LUMBAR 7.17 L-Spine Survey >100kg, Series 2, 1, , Standard, , 2.5, 16.0, SmartmA, 120, 47.3727, 954.864
+ADULT LUMBAR 7.17 L-Spine Survey >100kg, Series 2, 1, , Bone, , 2.5, 16.0  D , SmartmA, 120, 47.3727, 954.864
+ADULT LUMBAR 7.17 L-Spine Survey >100kg, Series 2, 1, , Standard, , 2.5, 16.0  D , SmartmA, 120, 47.3727, 954.864
+
+ADULT LUMBAR 7.18 L-Spine Survey &lt;100kg, Series 2, 1, , Standard, , 5.0, 16.0, SmartmA, 120, 23.4517, 486.44
+ADULT LUMBAR 7.18 L-Spine Survey &lt;100kg, Series 2, 1, , Bone, , 5.0, 16.0  D , SmartmA, 120, 23.4517, 486.44
+ADULT LUMBAR 7.18 L-Spine Survey &lt;100kg, Series 2, 1, , Standard, , 5.0, 16.0  D , SmartmA, 120, 23.4517, 486.44
+
+ADULT LUMBAR 7.19 L-Spine Survey 2.5mm MAR, Series 2, 1, , Standard, , 5.0, 16.0, SmartmA, 120, 28.6111, 559.751
+ADULT LUMBAR 7.19 L-Spine Survey 2.5mm MAR, Series 2, 1, , Bone, , 5.0, 16.0  D , SmartmA, 120, 28.6111, 559.751
+ADULT LUMBAR 7.19 L-Spine Survey 2.5mm MAR, Series 2, 1, , Standard, , 5.0, 16.0  D , SmartmA, 120, 28.6111, 559.751
+
+ADULT LUMBAR 7.30 Abdomen (adult) 1.25 mar GE SEMEN, Series 2, 1, , Standard, , 1.25, 50.0, 490, 120, 28.6736, 1186.95
+ADULT LUMBAR 7.30 Abdomen (adult) 1.25 mar GE SEMEN, Series 2, 1, , Standard, , 1.25, 80.0  D , 490, 120, 28.6736, 1186.95
+ADULT LUMBAR 7.30 Abdomen (adult) 1.25 mar GE SEMEN, Series 2, 1, , Standard, , 1.25, 50.0  D , 490, 120, 28.6736, 1186.95
+
+ADULT LUMBAR 7.16 L-Spine , Series 2, 1, , Standard, , 1.25, 16.0, SmartmA, 120, 32.882, 653.199
+ADULT LUMBAR 7.16 L-Spine , Series 2, 1, , Bone, , 1.25, 16.0  D , SmartmA, 120, 32.882, 653.199
+ADULT LUMBAR 7.16 L-Spine , Series 2, 1, , Standard, , 1.25, 16.0  D , SmartmA, 120, 32.882, 653.199
+
+ADULT PELVIS 8.1 Pelvis (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.1 Pelvis (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.1 Pelvis (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.1 Pelvis (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.1 Pelvis (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 380, 120, 29.6489, 632.879
+
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 80.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0  D , 380, 120, 29.6489, 632.879
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 9, 1, , Standard, , 1.25, 50.0  D , SmartmA, 120, 20.4812, 438.201
+ADULT PELVIS 8.2 Pelvis Contrast (Adult) 1.25mm, Series 9, 2, , Standard, , 1.25, 50.0  D , SmartmA, 120, 20.4812, 438.201
+
+ADULT PELVIS 8.3 Pelvis Extretory (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 480, 120, 37.4513, 799.426
+
+ADULT PELVIS 8.4 Pelvis Catheter (Adult) 1.25mm, Series 2, 1, , Standard, , 1.25, 50.0, 480, 120, 37.4513, 799.426
+
+ADULT PELVIS 8.6 Pelvis SRS(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0, 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.6 Pelvis SRS(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.6 Pelvis SRS(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 80.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.6 Pelvis SRS(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.6 Pelvis SRS(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 450, 120, 35.1106, 744.779
+
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0, 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 80.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0  D , 450, 120, 35.1106, 744.779
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 9, 1, , Standard, , 0.625, 50.0  D , SmartmA, 120, 10.3545, 220.413
+ADULT PELVIS 8.7 Pelvis SRS Contrast(Adult) 0.625mm, Series 9, 2, , Standard, , 0.625, 50.0  D , SmartmA, 120, 10.3545, 220.413
+
+ADULT PELVIS 8.8 Pelvis SRS Extretory (Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0, 450, 120, 35.1106, 744.779
+
+ADULT PELVIS 8.9 Pelvis SRS Catheter (Adult) 0.625mm, Series 2, 1, , Standard, , 0.625, 50.0, 450, 120, 35.1106, 744.779
+
+ADULT PELVIS 8.15 Pelvis_SRS(Adult)0.625 2021-10-29, Series 2, 1, , Standard, , 0.625, 50.0, 605, 120, 35.4032, 751.086
+ADULT PELVIS 8.15 Pelvis_SRS(Adult)0.625 2021-10-29, Series 2, 1, , Standard, , 0.625, 80.0, 605, 120, 35.4032, 751.086
+
+ADULT LOWER EXTREMITY 9.1 Leg (Adult) MAR 1.25mm , Series 2, 1, , Standard, , 1.25, 80.0  D , 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.1 Leg (Adult) MAR 1.25mm , Series 2, 1, , Standard, , 1.25, 80.0  D , 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.1 Leg (Adult) MAR 1.25mm , Series 2, 1, , Standard, , 1.25, 50.0  D , 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.1 Leg (Adult) MAR 1.25mm , Series 2, 1, , Standard, , 1.25, 50.0  D , 350, 120, 27.3082, 584.19
+
+ADULT LOWER EXTREMITY 9.2 Leg Contrast 1.25 (Adult) N+C(A+V), Series 2, 1, , Standard, , 1.25, 80.0, 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.2 Leg Contrast 1.25 (Adult) N+C(A+V), Series 2, 1, , Standard, , 1.25, 80.0, 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.2 Leg Contrast 1.25 (Adult) N+C(A+V), Series 2, 1, , Standard, , 1.25, 50.0  D , 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.2 Leg Contrast 1.25 (Adult) N+C(A+V), Series 2, 1, , Standard, , 1.25, 50.0  D , 350, 120, 27.3082, 584.19
+ADULT LOWER EXTREMITY 9.2 Leg Contrast 1.25 (Adult) N+C(A+V), Series 9, 1, , Standard, , 1.25, 50.0  D , SmartmA, 120, 38.4103, 867.049
+ADULT LOWER EXTREMITY 9.2 Leg Contrast 1.25 (Adult) N+C(A+V), Series 9, 2, , Standard, , 1.25, 50.0  D , SmartmA, 120, 38.4103, 867.049
+

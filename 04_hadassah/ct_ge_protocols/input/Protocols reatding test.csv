@@ -1,0 +1,130 @@
+ADULT HEAD 1.1 Head (adult) 1.25
+
+Exam Dose Settings,
+ExamCtdi,ExamDLP,
+56.1357,8211.25,
+
+Series 1,Scout,HeadFirst,Supine
+AutoStore,Gating,SeriesLevelCopy,Injector,
+No,No,No,No
+
+
+Scan,kV,mA,Start,End,Plane,Message,Light,Timer,
+1,120,20,S180,I180,0,0,No,No,
+
+Series 2,Axial,HeadFirst,Supine
+AutoStore,Gating,SeriesLevelCopy,SmartPrep,Biopsy,Injector,
+No,No,Yes,No,No,No
+
+
+Series 2 Group 1 Scan Settings
+Group,Images,Speed,Type,Start,End,Thick,Speed,Rows,Int,HiRes,Shuttle,Tilt,SFOV,kV,mA,Message,Light,Timer,CTDI NV,CTDI,DLP NV,DLP,
+1,1161,1.0,Helical,S150.0,I1300.0,1.25,5.625,16,1.25,No,No,S0.0,Large,120,340,No,No,No,NA,56.1357,NA,8211.25,
+
+Series 2 Group 1 Recon 1 Settings
+Group,DFOV,A/P,R/L,Filter,Type,Vari,D3D,DMPR,Neuro,ASIR,IQEnhance,GSI,Flip,
+1,50.0  D ,A0.0  D ,R0.0  D ,Standard,Full,No,No,No,No,None,No,No,None,
+
+Series 3 Group 1 Recon 2 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,1161,Helical,S150.0  D ,I1300.0  D ,1.25,1.25,50.0  D ,A0.0  D ,R0.0  D ,Standard,Full,None,No,No,None
+
+Series 7 Group 1 Recon 6 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,1161,Helical,S150.0  D ,I1300.0  D ,1.25,1.25,50.0  D ,A0.0  D ,R0.0  D ,Soft,Full,None,Yes,No,None
+
+Series 8 Group 1 Recon 7 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,1161,Helical,S150.0  D ,I1300.0  D ,1.25,1.25,50.0  D ,A0.0  D ,R0.0  D ,Soft,Full,None,Yes,No,None
+
+
+
+ADULT CHEST 5.7 Thorax_Contrast (adult) N(Free)+N(DIBH)+C(A+V) 1.25mm
+
+Exam Dose Settings,
+ExamCtdi,ExamDLP,
+111.87,1364.4,
+
+Series 1,Scout,HeadFirst,Supine
+AutoStore,Gating,SeriesLevelCopy,Injector,
+No,No,No,No
+
+
+Scan,kV,mA,Start,End,Plane,Message,Light,Timer,
+1,120,40,S300,I300,0,0,No,No,
+2,120,40,S300,I300,90,0,No,No,
+
+Series 2,Axial,HeadFirst,Supine
+AutoStore,Gating,SeriesLevelCopy,SmartPrep,Biopsy,Injector,
+No,No,Yes,No,No,No
+
+
+Series 2 Group 1 Scan Settings
+Group,Images,Speed,Type,Start,End,Thick,Speed,Rows,Int,HiRes,Shuttle,Tilt,SFOV,kV,mA,Message,Light,Timer,CTDI NV,CTDI,DLP NV,DLP,
+1,241,0.6,Helical,S0.0,I300.0,1.25,27.5,16,1.25,No,No,S0.0,Large,120,400,No,No,No,NA,12.5706,NA,410.055,
+
+Series 2 Group 1 Recon 1 Settings
+Group,DFOV,A/P,R/L,Filter,Type,Vari,D3D,DMPR,Neuro,ASIR,IQEnhance,GSI,Flip,
+1,50.0,A0.0,R0.0,Standard,Full,No,No,No,No,None,No,No,None,
+
+Series 3 Group 1 Recon 2 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,241,Helical,S0.0  D ,I300.0  D ,1.25,1.25  D ,80.0  D ,A0.0  D ,R0.0  D ,Standard,Full,None,No,No,None
+
+Series 7 Group 1 Recon 6 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,241,Helical,S0.0  D ,I300.0  D ,1.25,1.25  D ,50.0  D ,A0.0  D ,R0.0  D ,Lung,Full,None,Yes,No,None
+
+Series 8 Group 1 Recon 7 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,241,Helical,S0.0  D ,I300.0  D ,1.25,1.25  D ,50.0  D ,A0.0  D ,R0.0  D ,Standard,Full,None,Yes,No,None
+
+Series 9,Axial,HeadFirst,Supine
+AutoStore,Gating,SeriesLevelCopy,SmartPrep,Biopsy,Injector,
+No,No,Yes,No,No,No
+
+
+Series 9 Group 1 Scan Settings
+Group,Images,Speed,Type,Start,End,Thick,Speed,Rows,Int,HiRes,Shuttle,Tilt,SFOV,kV,mA,Message,Light,Timer,CTDI NV,CTDI,DLP NV,DLP,
+1,241,0.6,Helical,S0.0,I300.0,1.25,27.5,16,1.25,No,No,S0.0,Large,120,400,No,No,No,NA,12.5706,NA,410.055,
+
+Series 9 Group 1 Recon 1 Settings
+Group,DFOV,A/P,R/L,Filter,Type,Vari,D3D,DMPR,Neuro,ASIR,IQEnhance,GSI,Flip,
+1,50.0  D ,A0.0  D ,R0.0  D ,Standard,Full,No,No,No,No,None,No,No,None,
+
+Series 10 Group 1 Recon 2 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,241,Helical,S0.0  D ,I300.0  D ,1.25,1.25,80.0  D ,A0.0  D ,R0.0  D ,Standard,Full,None,No,No,None
+
+Series 14 Group 1 Recon 6 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,241,Helical,S0.0  D ,I300.0  D ,1.25,1.25  D ,50.0  D ,A0.0  D ,R0.0  D ,Standard,Full,None,Yes,No,None
+
+Series 15 Group 1 Recon 7 Settings
+Group,Images,Type,Start,End,Thick,Int,DFOV,A/P,R/L,Filter,Type,ASIR,IQEnhanced,GSI,Flip,
+1,241,Helical,S0.0  D ,I300.0  D ,1.25,1.25  D ,50.0  D ,A0.0  D ,R0.0  D ,Lung,Full,None,Yes,No,None
+
+Series 16,Axial,HeadFirst,Supine
+AutoStore,Gating,SeriesLevelCopy,SmartPrep,SmartPrep CTDI NV,SmartPrep CTDI,SmartPrep DLP NV,SmartPrep DLP,Biopsy,Injector,
+No,No,Yes,Yes,NA,79.6689,NA,79.6689,No,No
+
+
+Series 16 Group 1 Scan Settings
+Group,Images,Speed,Type,Start,End,Thick,Speed,Rows,Int,HiRes,Shuttle,Tilt,SFOV,kV,SmartmA,NoiseIndex,MinmA,MaxmA,Message,Light,Timer,CTDI NV,CTDI,DLP NV,DLP,
+1,241,0.6,Helical,S0.0,I300.0,1.25,35.0,16,1.25,No,No,S0.0,Large,120,Yes,23.59,100,450,No,No,No,NA,7.05945,NA,232.311,
+
+Series 16 Group 1 Recon 1 Settings
+Group,DFOV,A/P,R/L,Filter,Type,Vari,D3D,DMPR,Neuro,ASIR,IQEnhance,GSI,Flip,
+1,50.0  D ,A0.0  D ,R0.0  D ,Standard,Plus,No,No,No,No,None,Yes,No,None,
+
+Series 16 Group 2 Scan Settings
+Group,Images,Speed,Type,Start,End,Thick,Speed,Rows,Int,HiRes,Shuttle,Tilt,SFOV,kV,SmartmA,NoiseIndex,MinmA,MaxmA,Message,Light,Timer,CTDI NV,CTDI,DLP NV,DLP,
+2,241,0.6,Helical,I301.25,I601.25,1.25,35.0,16,1.25,No,No,S0.0,Large,120,Yes,23.59,100,450,No,No,No,NA,7.05945,NA,232.311,
+
+Series 16 Group 2 Recon 1 Settings
+Group,DFOV,A/P,R/L,Filter,Type,Vari,D3D,DMPR,Neuro,ASIR,IQEnhance,GSI,Flip,
+2,50.0  D ,A0.0  D ,R0.0  D ,Standard,Plus,No,No,No,No,None,Yes,No,None,
+
+
+
+

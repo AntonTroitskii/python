@@ -1,8 +1,18 @@
 import re
 
-PROTOCOL_NAME = r"^(?!Series)[^,^\n]+$"
 
-PROTOCOL_NAME_ADULT_HEAD = r"^(?!ADULT HEAD)\d{1,2}.\d{1,2}"
+# list anatomy for adult protocols
+ANATOMY_LIST = ['ADULT HEAD', 'ADULT ORBIT', 'ADULT CSPINE', 'ADULT SHOULDER', 'ADULT CHEST',
+                'ADULT ABDOMEN', 'ADULT LUMBAR', 'ADULT PELVIS', 'ADULT LOWER EXTREMITY', 'ADULT MISCELLANEOUS']
+
+ANATOMY_PATTERN_LIST = list(
+    map(lambda x: x + r'\s\d{1,2}\.\d{1,2}.+', ANATOMY_LIST))
+
+#regex pattern for all adult anatomies
+ANATOMY_PATTERN = '|'.join(ANATOMY_PATTERN_LIST)
+
+
+
 
 # ADULT HEAD 1.1 Head (adult) 1.25
 # ADULT HEAD 1.2 Head Contrast (adult) 1.25 N+C
